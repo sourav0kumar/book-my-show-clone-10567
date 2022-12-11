@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title
+Book my Show Clone-10567 https://book-my-show-clone-10567.vercel.app/
 
 ## Available Scripts
 
@@ -25,42 +24,39 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `Packages used in this App`
+## css framework
+  
+  Tailwind is used as a css library in this project.
 
-**ghjhgjh**
+## Razorpay
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+razorpay cdn: https://checkout.razorpay.com/v1/checkout.js is used for creating payment gateway.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `Packages used in this Application`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**react**
+This application is areact project
 
-## Learn More
+**React- router-dom**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The react-router-dom package contains bindings for using React Router in web applications.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**React slick with slick-crousel **
 
-### Code Splitting
+this package is used to showing carousels in the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Axios**
 
-### Analyzing the Bundle Size
+axios is used for fetching data from Api
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Headless UI**
 
-### Making a Progressive Web App
+for showing popups, transition generally used with tailwind css.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**react icons**
 
-### Advanced Configuration
+this package is used for using different types of icons in the project such as
+ bicheveron, bimenu etc.
+ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -41,7 +41,7 @@ This application is areact project
 
 The react-router-dom package contains bindings for using React Router in web applications.
 
-**React slick with slick-crousel **
+###React-slick with slick-crousel 
 
 this package is used to showing carousels in the project
 
